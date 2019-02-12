@@ -5,7 +5,7 @@ If people like the project, they can pledge money to make it happen.If the proje
 
 Funding on Kickstarter is all-or-nothing. If the project falls short of its funding goal, no one is charged.
 
-## Objective:
+## Objective
 - Perform Exploratory Data Analysis (EDA) to summarize the characteristics of projects on Kickstarter
 - Build a model to predict whether projects will be successfuk or failed
 
