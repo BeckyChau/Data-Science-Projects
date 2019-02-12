@@ -7,7 +7,7 @@ Funding on Kickstarter is all-or-nothing. If the project falls short of its fund
 
 ## Objective:
 - Perform Exploratory Data Analysis (EDA) to summarize the characteristics of projects on Kickstarter
-- Build a model to predict whether projects will success or fail
+- Build a model to predict whether projects will be successfuk or failed
 
 ## Data overview
 Data Source: [Kaggle-"ks-projects-201801.csv"](https://www.kaggle.com/kemical/kickstarter-projects/version/7#ks-projects-201801.csv)
